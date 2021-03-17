@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anime on Sophia&#39;s Website</title>
+    <link>https://sophiiu.github.io/tags/anime/</link>
+    <description>Recent content in Anime on Sophia&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2021 18:28:19 -0800</lastBuildDate><atom:link href="https://sophiiu.github.io/tags/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Favourite Character</title>
+      <link>https://sophiiu.github.io/posts/favechara/</link>
+      <pubDate>Thu, 04 Mar 2021 18:28:19 -0800</pubDate>
+      
+      <guid>https://sophiiu.github.io/posts/favechara/</guid>
+      <description>&lt;p&gt;My favourite character of all time is Yoshiko Tsushima&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
